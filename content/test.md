@@ -16,11 +16,16 @@ views:
                 type: single
                 route: block/om-redovisa
 ---
-Om
+H1-Rubrik
 =========================
-Den här sidan har som syfte att ge författaren en bättre förståelse för ramverk.
+Paragraftext
 
-I det här fallet gäller det ett PHP-baserat sådant som heter anax.
+Paragraftext2
 
+[FIGURE src=image/anax-framework.png?w=300 caption="En bildtext under bilden"]
 
-[FIGURE src=image/anax-framework.png?w=300]
+##En H2-rubrik
+
+En tredje paragraf!
+
+[En länk till kurshemsidan på DB-webb](https://dbwebb.se/kurser/design-v2)

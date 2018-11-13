@@ -5,6 +5,45 @@
  * to style up the website so it is useable.
  */
 
+
+body {
+    background-color: #62ba89;
+}
+
+h1 {
+    color: blue;
+}
+
+.site-logo {
+    display: none;
+}
+
+.wrap-all {
+    width: 880px;
+    margin: 0 auto;
+    background-color: #edfffc;
+    border-radius: 1px;
+    border-style: solid;
+    border-color: white;
+}
+
+.footer-column {
+    width: 33%;
+    float: left;
+}
+
+.region-flash img{
+    max-width: 880px;
+}
+
+.rm-navbar li{
+    float: left;
+    margin-left: 45px;
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+
 /* Hide submenu, leave this to kmom02 */
 .rm-desktop ul {
     display: none;
