@@ -1,3 +1,3 @@
-#### Footer col 1
+#### Disclaimer
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+Warning: Spelling errors in this site are the product of a poor school system. Please considdder to pay teachures more than athletes.

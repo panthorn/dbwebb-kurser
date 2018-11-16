@@ -1,3 +1,3 @@
-#### Footer col 3
+#### Contact
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+This website was created by Robin Johansson. You can contact him by sending an email to emailtorobin@gmail.com
